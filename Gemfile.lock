@@ -84,6 +84,7 @@ GEM
     nio4r (2.0.0)
     nokogiri (1.7.1-x86-mingw32)
       mini_portile2 (~> 2.1.0)
+    pg (0.20.0-x86-mingw32)
     public_suffix (2.0.5)
     puma (3.8.2)
     rack (2.0.1)
@@ -106,6 +107,11 @@ GEM
       nokogiri (~> 1.6)
     rails-html-sanitizer (1.0.3)
       loofah (~> 2.0)
+    rails_12factor (0.0.3)
+      rails_serve_static_assets
+      rails_stdout_logging
+    rails_serve_static_assets (0.0.5)
+    rails_stdout_logging (0.0.5)
     railties (5.1.0.rc2)
       actionpack (= 5.1.0.rc2)
       activesupport (= 5.1.0.rc2)
@@ -165,8 +171,10 @@ DEPENDENCIES
   capybara (~> 2.13.0)
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
+  pg
   puma (~> 3.7)
   rails (~> 5.1.0.rc2)
+  rails_12factor
   sass-rails (~> 5.0)
   selenium-webdriver
   sqlite3
