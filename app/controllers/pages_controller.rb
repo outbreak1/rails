@@ -3,6 +3,8 @@ class PagesController < ApplicationController
     
   end
   def home
-
+    def index
+      @articles = Article.all
+    end
   end
 end
