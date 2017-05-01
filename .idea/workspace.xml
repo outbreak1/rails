@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83fb9d7d-79b8-421f-ba0e-3c60162a1196" name="Default" comment="Deploy">
+    <list default="true" id="83fb9d7d-79b8-421f-ba0e-3c60162a1196" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -564,7 +564,7 @@
       <workItem from="1493506587785" duration="3461000" />
       <workItem from="1493535036046" duration="1419000" />
       <workItem from="1493588226828" duration="2465000" />
-      <workItem from="1493640135124" duration="4918000" />
+      <workItem from="1493640135124" duration="4983000" />
     </task>
     <task id="LOCAL-00001" summary="Creat a home page and about">
       <created>1493158817409</created>
@@ -650,11 +650,18 @@
       <option name="project" value="LOCAL" />
       <updated>1493644649632</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Deploy">
+      <created>1493645138744</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1493645138744</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33998000" />
+    <option name="totallyTimeSpent" value="34063000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
