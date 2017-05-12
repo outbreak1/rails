@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="Rails beta-blog: development" uuid="57795eaf-e3f8-4973-ab27-37520a13464a">
+    <data-source source="LOCAL" name="postgres@localhost" uuid="6eeb3b28-d712-4d88-9646-3c925a7f7f8d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/postgres</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails beta-blog: development" uuid="fd817cec-785a-4949-b11b-9fc6fc59bd8a">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <imported>true</imported>

@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="Rails beta-blog: development" uuid="57795eaf-e3f8-4973-ab27-37520a13464a">
+    <data-source name="postgres@localhost" uuid="6eeb3b28-d712-4d88-9646-3c925a7f7f8d">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+    </data-source>
+    <data-source name="Rails beta-blog: development" uuid="fd817cec-785a-4949-b11b-9fc6fc59bd8a">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
       <auth-required>false</auth-required>
       <first-sync>true</first-sync>
