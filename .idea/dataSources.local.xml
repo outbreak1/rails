@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="dataSourceStorageLocal">
-    <data-source name="postgres@localhost" uuid="6eeb3b28-d712-4d88-9646-3c925a7f7f8d">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
-      <secret-storage>master_key</secret-storage>
-      <first-sync>true</first-sync>
-    </data-source>
     <data-source name="Rails beta-blog: development" uuid="fd817cec-785a-4949-b11b-9fc6fc59bd8a">
-      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <database-info product="SQLite" version="3.16.1" jdbc-version="2.1" driver-name="SQLiteJDBC" driver-version="native" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
       <auth-required>false</auth-required>
-      <first-sync>true</first-sync>
+      <introspection-schemas>*:@</introspection-schemas>
     </data-source>
   </component>
 </project>
