@@ -25,8 +25,9 @@ $navbar-default-bg: black;
   text-align: center;
 }
 .jumbotron {
+  background-image: asset-url('ruby3.jpg');
   background-size: 100% 100%;
-  background: asset-url('ruby3.jpg') no-repeat;
+  background-repeat: no-repeat;
   height: 70vh;
   width: 100%;
 }
