@@ -175,7 +175,7 @@ DEPENDENCIES
   capybara (~> 2.13.0)
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
-  pg
+  pg (~> 0.18)
   puma (~> 3.7)
   rails (~> 5.1.0.rc2)
   rails_12factor
